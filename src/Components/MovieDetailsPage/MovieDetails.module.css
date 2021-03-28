@@ -1,0 +1,13 @@
+.goBackBtn {
+    display: block;
+}
+
+.mainDetails {
+    display: flex;
+    margin-top: 20px;
+    padding-right: 60px;
+}
+
+.detailsText {
+    margin-left: 40px;
+}
